@@ -1,0 +1,14 @@
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment & IDE folders
+.vscode/
+.idea/
+*.swp
+
+# OS-generated metadata files
+.DS_Store
+Thumbs.db
