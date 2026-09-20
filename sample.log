@@ -1,0 +1,9 @@
+192.168.1.10 [20/Sep/2026] GET /index.html 200
+192.168.1.15 [20/Sep/2026] GET /about.html 200
+10.0.0.45 [20/Sep/2026] POST /login 401
+10.0.0.45 [20/Sep/2026] POST /login 401
+10.0.0.45 [20/Sep/2026] POST /login 401
+192.168.1.10 [20/Sep/2026] GET /images/logo.png 200
+10.0.0.45 [20/Sep/2026] GET /admin_dashboard 404
+10.0.0.45 [20/Sep/2026] GET /config.bak 404
+192.168.1.20 [20/Sep/2026] GET /contact 200
